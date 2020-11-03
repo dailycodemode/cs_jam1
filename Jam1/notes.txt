@@ -1,0 +1,4 @@
+﻿console: update-database
+
+add-migration AddedEmployeeDataPoints
+update-database
